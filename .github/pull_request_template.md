@@ -1,8 +1,8 @@
 ### All Submissions:
 
-* [ ] Have you followed the guidelines in our [Contributing](/contributing.md) document?
+* [ ] Have you followed the guidelines in our [Contributing](https://github.com/paypay/paypayopa-sdk-node/blob/master/CONTRIBUTING.md) document?
 * [ ] Have you read and signed the automated Contributor's License Agreement?
-* [ ] Have you checked to ensure there aren't other open [Pull Requests](../../pulls) for the same update/change?
+* [ ] Have you checked to ensure there aren't other open [Pull Requests](https://github.com/paypay/paypayopa-sdk-node/pull) for the same update/change?
 
 
 ### New Feature Submissions:
